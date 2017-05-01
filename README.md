@@ -11,3 +11,7 @@ To run bot:
 Before running set your own ID and Username in App.
 
 Enjoy.
+
+
+Replays:[BOT]com.jdub.bot1
+http://bot.generals.io/replays/Hxnz5EV1W
